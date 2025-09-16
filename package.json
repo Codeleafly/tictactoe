@@ -1,0 +1,21 @@
+{
+  "name": "neon-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "A modern, neon-themed Tic-Tac-Toe game with AI.",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "game",
+    "neon",
+    "html",
+    "css",
+    "javascript",
+    "ai"
+  ],
+  "author": "Smart Tell line",
+  "license": "UNLICENSED",
+  "private": true
+}
